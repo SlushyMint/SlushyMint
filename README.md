@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Muhammad Shumin from Indonesia! 👌<br>I’m currently a university student majoring in Information Systems , where I’m passionate about exploring the intersection of technology. I enjoy building projects that solve real-world problems and continuously learning new tools and technologies to grow as a developer.<br><br>🔒 I’m deeply interested in cybersecurity , with a particular focus on penetration testing (pentesting) . I enjoy identifying vulnerabilities, securing systems, and learning about the latest tools and techniques to protect against cyber threats. 🚀<br><br>💻 On GitHub, you’ll find a collection of my projects ranging from cybersecurity tools to automation scripts and other tech experiments. I’m always eager to collaborate, share knowledge, and contribute to open-source projects that align with my interests.<br><br>🌱 Currently Learning : Expanding my skills in ethical hacking, Python scripting for cybersecurity, and cloud security.<br><br>🎯 Future Goals : To become a certified penetration tester and contribute to creating safer digital environments by leveraging technology and innovation.</h2>
+<h2 align="left">👋 Hi, I'm Muhammad Shumin from Indonesia! 👌<br>I’m currently a university student majoring in Information Systems , where I’m passionate about exploring the intersection of technology. I enjoy building projects that solve real-world problems and continuously learning new tools and technologies to grow as a developer.<br><br>🔒 I’m deeply interested in cybersecurity , with a particular focus on penetration testing (pentesting) . I enjoy identifying vulnerabilities, securing systems, and learning about the latest tools and techniques to protect against cyber threats. 🚀</h2>
 
 ###
 
@@ -43,5 +43,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SlushyMint/SlushyMint/output/snake.svg" alt="Snake animation" />
 
 ###
