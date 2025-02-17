@@ -1,15 +1,47 @@
-# 💫 About Me:
-I'm currently studying information system at University. <br>I'm pretty good intermediate level in Python.<br>I am interested in learning Cyber Security, especially in pentesting.
+<h2 align="left">👋 Hi, I'm Muhammad Shumin from Indonesia! 👌<br>I’m currently a university student majoring in Information Systems , where I’m passionate about exploring the intersection of technology. I enjoy building projects that solve real-world problems and continuously learning new tools and technologies to grow as a developer.<br><br>🔒 I’m deeply interested in cybersecurity , with a particular focus on penetration testing (pentesting) . I enjoy identifying vulnerabilities, securing systems, and learning about the latest tools and techniques to protect against cyber threats. 🚀<br><br>💻 On GitHub, you’ll find a collection of my projects ranging from cybersecurity tools to automation scripts and other tech experiments. I’m always eager to collaborate, share knowledge, and contribute to open-source projects that align with my interests.<br><br>🌱 Currently Learning : Expanding my skills in ethical hacking, Python scripting for cybersecurity, and cloud security.<br><br>🎯 Future Goals : To become a certified penetration tester and contribute to creating safer digital environments by leveraging technology and innovation.</h2>
 
+###
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SlushyMint&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SlushyMint&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SlushyMint&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg1cGJ3cndsMGo1d2tqNHlhNzBkdmZqZ3BzOHprNDExMGx5amY2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mo6kpsp3nsO2XERGZf/giphy.gif"  />
 
----
-[![](https://visitcount.itsvg.in/api?id=SlushyMint&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/syuminsyumin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="http://discordapp.com/users/1051138254394642483" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-shumin-80b411326/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
